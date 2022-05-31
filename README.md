@@ -1,4 +1,5 @@
-# Architectural Kata: Summer 2022
+# Architectural Kata: Summer 2022: Spotlight App
+
 
 Welcome to the repository holding our solution to O'Reilly Architectural Katas - Summer 2022. We are a group of application security development and automation engineers, who are passionate about building secure software, right from its design.
 
