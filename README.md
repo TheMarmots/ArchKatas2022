@@ -17,13 +17,14 @@ Sneha Kokil
 ## Solution
 In the sections below, we will note a few assumptions, understanding of the problem background and the solution described using use case scenarios, architectural design records and other characteristics of the software. 
 ### Assumptions
-
+---
 
 
 ### Background
+---
 
-
-### Solution
+### Detailed Solution
+---
 #### High-Level Architecture
 
 #### Use Cases
