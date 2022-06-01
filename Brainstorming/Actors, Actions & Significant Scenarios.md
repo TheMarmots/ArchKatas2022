@@ -60,10 +60,15 @@ Platform Role based training is assigned to new Non-Profit
 Career mentor uploads new candidate career roadmap in platform	
 
 
-Incentivize engagement????
-spotlight non-profit
-highlight feeds (?)
+
 ## Assumptions/Questions
 1. Career Mentor role is serviced by non-profit to ensure mentor's commitment to the cause and vetting of mentor by non-profit.
 2. Community leader is from the spotlight app/platform employee/volunteer.
 3. Taking the responsibility of scheduling meetings and assignments away from system/platform and giving it to community leaders and career mentors lowers the complexity of scheduling meetings between specific attendees.
+
+
+
+Dont know what to do about these yet:
+Incentivize engagement????
+spotlight non-profit
+highlight feeds (?)
