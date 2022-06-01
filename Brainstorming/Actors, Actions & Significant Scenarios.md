@@ -20,24 +20,37 @@ The identified actors their actions are as follows:
 
 The following are the most architecturally significant scenarios/flows, derived from the Actors and Actions above, which will shape the architecture of the Farmacy Family system.
 
-### Networking Hub Functionality & Process
+### 01 Registration 
+#### 01 Non profit registration
+Step 1-3 from Operational Process - Registration & Intake (Non-Profit) (Non-Profit and )
+(combine a high level technical with process details)
+#### 02 Candidate registration
 
-### 01  Registration & Intake (Non-Profit)
-
+### Intake
+Step 4-7 from Operational Process - Registration & Intake (Non-Profit)
 A non-profit with offering registers on the platform
+#### 01 Non profit intake
+Step 1-3 from Operational Process - Registration & Intake (Non-Profit) (Non-Profit and )
+(combine a high level technical with process details)
+#### 02 Candidate intake
 
 ![Scenario-OnboardFFoodsCustomer](../assets/diagrams/Scenario-OnboardFFoodsCustomer.png)
 
 ### 02 Mentor Assignment & Roadmap
 
 
-### Career Case Management Functionality & Process
 
 ### 03 Registration & Intake & Career Assessment	
 
 ### 04 Mentor Assignment & Roadmap
 
 ### 05 Candidate Services
+
+
+### 06 Analytics
+Tracking engagement
+Tracking candidate progress
+Actor - administrator, career mentor
 
 
 ## Assumptions/Questions
