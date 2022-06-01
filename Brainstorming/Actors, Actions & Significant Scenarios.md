@@ -10,9 +10,9 @@ The identified actors their actions are as follows:
 | ---------------------- | ------------------------------------------------------------ |
 | Non-profit  | * Registers on the platform<br />* Completes community profile <br />* Completes service capabilities assessment<br />* something<br /> |
 | Platform/system          | * Assigns community leader to non-profit<br />* sends email to non-profit introducing community leader<br />* sets up introductory meeting within 1-2 weeks to discuss non profit service capabilities, responsibilities, & expectations <br />* sets up recurring meetings with non-profits <br />* assigns trainings to non-profit<br />* Invites non-profit to monthly community meetings|
-| Candidate       | * registers on platform <br />* something<br />* something <br />* something<br />* something<br />* something |
-| Administrator              | * Isomething<br />* something<br />* something |
-| Community leader ?          | * something<br />* something<br />* seomthing |
+| Candidate       | * registers on platform <br />* indiciate kinds of services they're interested in<br />* browse through possible matches <br />* apply for services through the platform<br />* follow "recommended paths" which combines multiple services<br />* something |
+| Administrator              | * see and manage all users in the system in case of technical issues or abuse<br />* define list of services offered by the system<br />* view operational and analytical reports * view and understand candidate progress<br />* track overall engagement (users, services, etc.)<br />* "accept" proposed non-profits<br />|
+| Community leader ?          | * view contact information of non-profits for scheduling purposes<br />* something<br />* seomthing |
 
 
 ## Architecturally Significant Scenarios
