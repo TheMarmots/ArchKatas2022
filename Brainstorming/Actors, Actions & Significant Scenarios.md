@@ -26,7 +26,7 @@ Step 1-3 from Operational Process - Registration & Intake (Non-Profit) (Non-Prof
 (combine a high level technical with process details)
 #### 02 Candidate registration
 
-### Intake
+### 02 Intake
 Step 4-7 from Operational Process - Registration & Intake (Non-Profit)
 A non-profit with offering registers on the platform
 #### 01 Non profit intake
@@ -36,23 +36,33 @@ Step 1-3 from Operational Process - Registration & Intake (Non-Profit) (Non-Prof
 
 ![Scenario-OnboardFFoodsCustomer](../assets/diagrams/Scenario-OnboardFFoodsCustomer.png)
 
-### 02 Mentor Assignment & Roadmap
 
-
-
-### 03 Registration & Intake & Career Assessment	
-
-### 04 Mentor Assignment & Roadmap
-
-### 05 Candidate Services
-
-
-### 06 Analytics
+### 03 Analytics
 Tracking engagement
 Tracking candidate progress
+non-profit see trends in demand / usage of services
 Actor - administrator, career mentor
 
 
+### 04 Candidate Services
+(Browsing services, service catalog, roadmap, progress?)
+
+
+### 05 Non-profit social networking aspect
+communicate with specific non-profits ("DMs")
+communicate generically across non-profits ("Feed")
+find and join "programs" that combines resources from multiple non-profits
+include "community leader" in the above two points
+
+
+### 06 training and career roadmap
+Platform Role based training is assigned to new Non-Profit
+Career mentor uploads new candidate career roadmap in platform	
+
+
+Incentivize engagement????
+spotlight non-profit
+highlight feeds (?)
 ## Assumptions/Questions
 1. Career Mentor role is serviced by non-profit to ensure mentor's commitment to the cause and vetting of mentor by non-profit.
 2. Community leader is from the spotlight app/platform employee/volunteer.
