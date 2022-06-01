@@ -16,10 +16,9 @@ Gagan Rajput
 Sneha Kokil
 
 ## Solution
-In the sections below, we will note a few assumptions, understanding of the problem background and the solution described using use case scenarios, architectural design records and other characteristics of the software. 
-### Assumptions
+In the sections below, we will note the business requirements, understanding of the problem background and the solution described using use case scenarios, architectural design records and other characteristics of the software. 
+### Business Requirements
 ---
-
 
 ### Background
 ---
