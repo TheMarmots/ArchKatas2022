@@ -10,7 +10,7 @@ The identified actors their actions are as follows:
 | ---------------------- | ------------------------------------------------------------ |
 | Non-profit  | * Registers on the platform<br />* Completes community profile <br />* Completes service capabilities assessment<br />* something<br /> |
 | Platform/system          | * Assigns community leader to non-profit<br />* sends email to non-profit introducing community leader<br />* sets up introductory meeting within 1-2 weeks to discuss non profit service capabilities, responsibilities, & expectations <br />* sets up recurring meetings with non-profits <br />* assigns trainings to non-profit<br />* Invites non-profit to monthly community meetings|
-| Candidate       | * something <br />* something<br />* something <br />* something<br />* something<br />* something |
+| Candidate       | * registers on platform <br />* something<br />* something <br />* something<br />* something<br />* something |
 | Administrator              | * Isomething<br />* something<br />* something |
 | Community leader ?          | * something<br />* something<br />* seomthing |
 
