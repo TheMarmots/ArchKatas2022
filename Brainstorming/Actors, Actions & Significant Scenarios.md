@@ -40,6 +40,8 @@ A non-profit with offering registers on the platform
 ### 05 Candidate Services
 
 
-## Assumptions
+## Assumptions/Questions
 1. Career Mentor role is serviced by non-profit to ensure mentor's commitment to the cause and vetting of mentor by non-profit.
 2. Community leader is from the spotlight app/platform employee/volunteer.
+3. Taking the responsibility of scheduling meetings and assignments away from system/platform and giving it to community leaders and career mentors lowers the complexity of scheduling meetings between specific attendees.
+4. "Non-Profit is invited to monthly community meetings	" : if this is a common monthly community meeting then logically it has to be "owned" and scheduled by the platform/system ?
