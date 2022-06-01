@@ -24,6 +24,10 @@ The following are the most architecturally significant scenarios/flows, derived 
 #### 01 Non profit registration
 Step 1-3 from Operational Process - Registration & Intake (Non-Profit) (Non-Profit and )
 (combine a high level technical with process details)
+
+![RegistrationUseCase](../assets/RegistrationUseCase.png)
+
+
 #### 02 Candidate registration
 
 ### 02 Intake
