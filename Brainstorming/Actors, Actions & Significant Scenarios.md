@@ -60,6 +60,8 @@ communicate generically across non-profits ("Feed")
 find and join "programs" that combines resources from multiple non-profits
 include "community leader" in the above two points
 
+![SocialUseCase](../assets/Spotlight-Social.png)
+
 
 ### 06 training and career roadmap
 Platform Role based training is assigned to new Non-Profit
