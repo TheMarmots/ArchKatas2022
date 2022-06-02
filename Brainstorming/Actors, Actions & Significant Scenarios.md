@@ -29,6 +29,8 @@ Step 1-3 from Operational Process - Registration & Intake (Non-Profit) (Non-Prof
 
 
 #### 02 Candidate registration
+![CandidateRegistration](../assets/CandidateRegistration.png)
+
 
 ### 02 Intake
 Step 4-7 from Operational Process - Registration & Intake (Non-Profit)
