@@ -32,14 +32,17 @@ Step 1-3 from Operational Process - Registration & Intake (Non-Profit) (Non-Prof
 
 
 ### 02 Intake
-Step 4-7 from Operational Process - Registration & Intake (Non-Profit)
-A non-profit with offering registers on the platform
+
 #### 01 Non profit intake
-Step 1-3 from Operational Process - Registration & Intake (Non-Profit) (Non-Profit and )
-(combine a high level technical with process details)
+![NonprofitIntake1](../assets/Spotlight%20-%20Non-profit%20Intake%20-%201.png)
+
+![NonprofitIntake2](../assets/Spotlight%20-%20Non-profit%20Intake%20-2.png)
+
 #### 02 Candidate intake
 
-![Scenario-OnboardFFoodsCustomer](../assets/diagrams/Scenario-OnboardFFoodsCustomer.png)
+![CandidateIntake1](../assets/Spotlight%20Candidate%20Intake%20-1.png)
+
+![CandidateIntake2](../assets/Spotlight%20Candidate%20Intake%20-%202.png)
 
 
 ### 03 Analytics
