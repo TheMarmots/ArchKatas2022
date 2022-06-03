@@ -4,6 +4,8 @@
 
 # Overview
 
+![GeneralArch](../assets/generalarchitecture.png)
+
 # Architectural Characteristics
 
 #### Key Non-Functional Properties
@@ -25,6 +27,6 @@ So our scale is roughly one order of magnitude smaller than LinkedIn. This is st
 
 Non-profits operate in a huge number of different causes and may collaborate in a near infinite number of ways. Although our initial design will support only a subset of these possibilities, it's clear that the platform needs to be extensible enough to support the growing number of non-profits and their needs.
 
-#### Usability
+##### Usability
 
 We must be cognizant that both non-profits and candidate users may have very limited experience in technology. As such, our architecture focuses significantlly on ease-of-use and the ability for quick iteration and rapid prototyping. This will help UX and engineering teams to spend more time understanding user needs.
