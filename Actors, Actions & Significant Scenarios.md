@@ -19,33 +19,32 @@ The identified actors their actions are as follows:
 
 The following are the most architecturally significant scenarios/flows, derived from the Actors and Actions above, which will shape the architecture of the Farmacy Family system.
 
-### 01 Registration 
-#### 01 Non profit registration
+### 1 Registration 
+#### 1.1 Non profit registration
 Step 1-3 from Operational Process - Registration & Intake (Non-Profit) (Non-Profit and )
 (combine a high level technical with process details)
 
 ![RegistrationUseCase](./assets/RegistrationUseCase.png)
 
-
-#### 02 Candidate registration
+#### 1.2 Candidate registration
 ![CandidateRegistration](./assets/CandidateRegistration.png)
 
 
-### 02 Intake
+### 2 Intake
 
-#### 01 Non profit intake
+#### 2.1 Non profit intake
 ![NonprofitIntake1](./assets/Spotlight%20-%20Non-profit%20Intake%20-%201.png)
 
 ![NonprofitIntake2](./assets/Spotlight%20-%20Non-profit%20Intake%20-2.png)
 
-#### 02 Candidate intake
+#### 2.2 Candidate intake
 
 ![CandidateIntake1](./assets/Spotlight%20Candidate%20Intake%20-1.png)
 
 ![CandidateIntake2](./assets/Spotlight%20Candidate%20Intake%20-%202.png)
 
 
-### 03 Analytics
+### 3 Analytics
 Tracking engagement
 Tracking candidate progress
 non-profit see trends in demand / usage of services
@@ -53,35 +52,28 @@ Actor - administrator, career mentor
 
 ![SharedUseCase](./assets/Spotlight-Analytics.png)
 
-### 04 Candidate Services
+### 4 Candidate Services
 (Browsing services, service catalog, roadmap, progress?)
 
 ![CandidateServices](./assets/Spotlight-CandidateServices.png)
 
-
-### 05 Non-profit social networking aspect
+### 5 Non-profit social networking aspect
 communicate with specific non-profits ("DMs")
 communicate generically across non-profits ("Feed")
 
 ![SocialUseCase](./assets/Spotlight-Social.png)
 
-### 05b Non-profit join programs
+### 5b Non-profit join programs
 
 find and join "programs" that combines resources from multiple non-profits
 
 ![SharedUseCase](./assets/Spotlight-SharedServices.png)
 
-
-
-### 06 training and career roadmap
+### 6 training and career roadmap
 Platform Role based training is assigned to new Non-Profit
 
 ![PlatformTraining](./assets/Spotlight-NonProfitTraining.png)
 
-
 Career mentor uploads new candidate career roadmap in platform	
 
 ![MentorPlanTraining](./assets/Spotlight-CareerMentorPlan.png)
-
-
-
