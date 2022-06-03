@@ -57,10 +57,13 @@ Actor - administrator, career mentor
 ### 05 Non-profit social networking aspect
 communicate with specific non-profits ("DMs")
 communicate generically across non-profits ("Feed")
-find and join "programs" that combines resources from multiple non-profits
-include "community leader" in the above two points
 
 ![SocialUseCase](../assets/Spotlight-Social.png)
+
+### 05b Non-profit join programs
+
+find and join "programs" that combines resources from multiple non-profits
+
 
 
 ### 06 training and career roadmap
