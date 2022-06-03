@@ -1,7 +1,7 @@
 # Multimedia Storage Capability
 
 ## Diagram
-
+![MultimediaStorageCapability](../../assets/MultimediaStorageCapability.png)
 
 ## Description
 The multimedia storage capability is broadly responsible for handling downloadable readable content of an offering. 
