@@ -17,5 +17,10 @@ The Auth capability is broadly responsible for handling user auth (handling logi
 ## Components
 
 * Auth DB: Used for storing user info, session token metadata, and roles.
+* Auth Capability Microservice: Primary logic used by routes and other microservices.
+* Session Token: Signed token (e.g. JWT, but does not have to be) that represents a signed user session. Does NOT include role info.
 
 ## Architectural Characteristics
+* Security
+* Availability
+* Performance
