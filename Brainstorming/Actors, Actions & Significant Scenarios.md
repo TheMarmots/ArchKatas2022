@@ -1,7 +1,6 @@
 # Actors, Actions & Significant Scenarios
 
-The Actors on the system (typically the human users but can also include other systems) and the actions they take help to form the key scenarios, or flows, of the system. The following identifies the significant actors, actions and key scenarios that will inform the architecture of the Farmacy Family system.
-
+The following identifies the significant actors, actions and key scenarios that will inform the architecture of the Spotlight project. This is useful to gain a overall sense for what needs to be provided by the service.
 ## Actors & Actions
 
 The identified actors their actions are as follows:
@@ -64,12 +63,19 @@ communicate generically across non-profits ("Feed")
 
 find and join "programs" that combines resources from multiple non-profits
 
+![SharedUseCase](../assets/Spotlight-SharedServices.png)
+
 
 
 ### 06 training and career roadmap
 Platform Role based training is assigned to new Non-Profit
+
+![PlatformTraining](../assets/Spotlight-NonProfitTraining.png)
+
+
 Career mentor uploads new candidate career roadmap in platform	
 
+![MentorPlanTraining](../assets/Spotlight-CareerMentorPlan.png)
 
 
 ## Assumptions/Questions
