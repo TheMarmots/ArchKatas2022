@@ -4,7 +4,7 @@
 ![MultimediaStorageCapability](../../assets/MultimediaStorageCapability.png)
 
 ## Description
-The multimedia storage capability is broadly responsible for handling downloadable readable content of an offering. 
+The multimedia storage capability is broadly responsible for handling downloadable readable content of an offering. This service also connects to the auth capability microservice to get role/user information to validate request to pdfs.
 
 ## Use Cases
 * Upload resources
