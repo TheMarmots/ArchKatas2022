@@ -4,7 +4,7 @@
 
 # Overview
 
-![GeneralArch](../assets/generalarchitecture.png)
+![GeneralArchitecture](assets/generalarchitecture.png)
 
 # Architectural Characteristics
 
