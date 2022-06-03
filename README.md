@@ -53,20 +53,12 @@ Most modern applications today are built with smaller, nimble components that al
 
 
 #### Capabilities
-(Replace samples below with actuals)
-* [Registration Capability](./Key%20Capabilities/Use%20case-based/Registration.md)
-* [Intake Capability](./Key%20Capabilities/Use%20case-based/Intake.md)
-* [Career Mentorship Capability](./Key%20Capabilities/Use%20case-based/CareerMentorPlan.md)  
-* [Career Roadmap Tracking Capability](./Key%20Capabilities/Use%20case-based/CareerRoadmap.md)
-* [Role-based Training Capability](./Key%20Capabilities/Use%20case-based/RoleBasedTraining.md)
-
-
-#### Architecture Diagrams
+TODO
 
 
 #### Architectural Decision Records (ADRs)
 
-
+You can find a list of ADRs relevant to this proposal here: [ADRs](./ADRs)
 
 
 
