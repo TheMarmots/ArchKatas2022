@@ -51,9 +51,12 @@ Tracking candidate progress
 non-profit see trends in demand / usage of services
 Actor - administrator, career mentor
 
+![SharedUseCase](../assets/Spotlight-Analytics.png)
 
 ### 04 Candidate Services
 (Browsing services, service catalog, roadmap, progress?)
+
+![CandidateServices](../assets/Spotlight-CandidateServices.png)
 
 
 ### 05 Non-profit social networking aspect
