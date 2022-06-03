@@ -1,7 +1,7 @@
 # Recommendation Capability
 
 ## Diagram
-
+![RecommendationCapability](../../assets/RecommendationCapability.png)
 
 ## Description
 
