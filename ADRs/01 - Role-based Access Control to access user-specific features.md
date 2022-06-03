@@ -1,4 +1,4 @@
-# 01- Role-based Access Control to access user-specific features
+# Role-based Access Control to access user-specific features
 
 ## Status
 
