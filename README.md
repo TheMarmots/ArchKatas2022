@@ -40,6 +40,8 @@ Sneha Kokil
 
 Most modern applications today are built with smaller, nimble components that allow them to achieve speed, scalability and security in their operations. Looking at the goal with which Spotlight App Project is being built, extensibility is also going to be one of the important characteristics. Our strategy in designing the initial architecture for Spotlight is to enable key features that drive the main purpose of the project, pay deliberate attention to the security aspects and choose the architectural elements, such that they can support the changing, long-term needs.
 
+As this was the first time our team particiapted in the Katas event, our work here is inspired by previous winners: TheJedis2020 (https://github.com/TheJedis2020) and The Archangels (https://tekiegirl.github.io/Archangels/).
+
 ## Architecture Solution
 
 ### High-Level Architecture
@@ -53,7 +55,15 @@ Most modern applications today are built with smaller, nimble components that al
 
 
 #### Capabilities
-TODO
+* [Analytics Capability](./Key%20Capabilities/Core/Analytics.md)
+* [Authentication Capability](./Key%20Capabilities/Core/Authentication.md)
+* [Forum Capability](./Key%20Capabilities/Core/Forum.md)
+* [Multimedia Storage Capability](./Key%20Capabilities/Core/MultimediaStorage.md)
+* [Notification Capability](./Key%20Capabilities/Core/Notification.md)
+* [Persistent Storage Capability](./Key%20Capabilities/Core/PersistentStorage.md)
+* [Recommendation Capability](./Key%20Capabilities/Core/Recommendation.md)
+* [Scheduling Capability](./Key%20Capabilities/Core/Schedule.md)
+* [Assignment Capability](./Key%20Capabilities/Core/SearchAndAssign.md)
 
 
 #### Architectural Decision Records (ADRs)
