@@ -1,4 +1,4 @@
-# Persistent Storage Capability
+# Recommendation Capability
 
 ## Diagram
 

@@ -1,4 +1,4 @@
-# Persistent Storage Capability
+# Multimedia Storage Capability
 
 ## Diagram
 

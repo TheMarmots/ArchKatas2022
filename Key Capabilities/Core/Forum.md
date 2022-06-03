@@ -1,4 +1,4 @@
-# Persistent Storage Capability
+# Forum Capability
 
 ## Diagram
 
