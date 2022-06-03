@@ -49,7 +49,7 @@ Most modern applications today are built with smaller, nimble components that al
 
 #### Actors, Actions and Significant Scenarios
 
-* [Actors, Actions, and Significant Scenerios](./Brainstorming/Actors,%20Actions%20&%20Significant%20Scenarios.md) - the general architectural idea.  
+* [Actors, Actions, and Significant Scenerios](./Actors,%20Actions%20&%20Significant%20Scenarios.md) - the general architectural idea.  
 
 
 #### Capabilities
