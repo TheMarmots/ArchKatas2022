@@ -21,8 +21,6 @@ The following are the most architecturally significant scenarios/flows, derived 
 
 ### 1 Registration 
 #### 1.1 Non profit registration
-Step 1-3 from Operational Process - Registration & Intake (Non-Profit) (Non-Profit and )
-(combine a high level technical with process details)
 
 ![RegistrationUseCase](./assets/RegistrationUseCase.png)
 
@@ -45,21 +43,14 @@ Step 1-3 from Operational Process - Registration & Intake (Non-Profit) (Non-Prof
 
 
 ### 3 Analytics
-Tracking engagement
-Tracking candidate progress
-non-profit see trends in demand / usage of services
-Actor - administrator, career mentor
 
 ![SharedUseCase](./assets/Spotlight-Analytics.png)
 
 ### 4 Candidate Services
-(Browsing services, service catalog, roadmap, progress?)
 
 ![CandidateServices](./assets/Spotlight-CandidateServices.png)
 
 ### 5 Non-profit social networking aspect
-communicate with specific non-profits ("DMs")
-communicate generically across non-profits ("Feed")
 
 ![SocialUseCase](./assets/Spotlight-Social.png)
 
