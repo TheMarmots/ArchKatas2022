@@ -18,7 +18,7 @@ The Spotlight App uses a static client <--> Restful HTTP-based API driven archit
 
 #### Positive
 * We don't have to deploy API services and directly expose their routes providing an easier (and more extensible) mechanism for adding new functionality.
-* Clients won't have to individually handle things like TLS termination, etc. This can be down by the load balancers at this layer.
+* Clients won't have to individually handle things like TLS termination, etc. This can be done by the load balancers at this layer.
 
 #### Negative
 * Slightly more complexity. Much make sure new routes are added this layer while also connecting the corresponding route handler microservices.
