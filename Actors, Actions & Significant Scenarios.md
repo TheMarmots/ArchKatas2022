@@ -19,6 +19,11 @@ The identified actors their actions are as follows:
 
 The following are the most architecturally significant scenarios/flows, derived from the Actors and Actions above, which will shape the architecture of the Farmacy Family system.
 
+### Legend
+This legend defines all the symbols that are used throughout our diagrams. Each diagram has it's own legend, but this serves are a quick reference of all symbols used.
+
+![Full_Legend](./assets/Full_Legend.png)
+
 ### 1 Registration 
 #### 1.1 Non profit registration
 
