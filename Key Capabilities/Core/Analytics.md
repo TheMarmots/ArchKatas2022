@@ -21,3 +21,8 @@ The analytics capability allows the Spotlight service to aggregate data about ho
 - Availability
 - Performance
 - Scalability
+
+## ADR
+- [AnalyticsDB](../../ADRs/AnalyticsDB.md)
+- [AnalyticsQueue](../../ADRs/AnalyticsQueue.md)
+- [AnalyticsAPI](../../ADRs/AnalyticsAPI.md)
