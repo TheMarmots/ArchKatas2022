@@ -100,7 +100,7 @@ find and join "programs" that combines resources from multiple non-profits
 - [Notification](./Key%20Capabilities/Core/Notification.md)
 
 ### 6 training and career roadmap
-Platform Role based training is assigned to new Non-Profit
+#### 6.1 Platform Role based training is assigned to new Non-Profit
 
 ![PlatformTraining](./assets/Spotlight-NonProfitTraining.png)
 
@@ -109,7 +109,7 @@ Platform Role based training is assigned to new Non-Profit
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 - [Notification](./Key%20Capabilities/Core/Notification.md)
 
-Career mentor uploads new candidate career roadmap in platform	
+#### 6.2 Career mentor uploads new candidate career roadmap in platform	
 
 ![MentorPlanTraining](./assets/Spotlight-CareerMentorPlan.png)
 
