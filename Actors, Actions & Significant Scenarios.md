@@ -25,15 +25,15 @@ The following are the most architecturally significant scenarios/flows, derived 
 ![RegistrationUseCase](./assets/RegistrationUseCase.png)
 
 #### Capability Links
-- [Authn](../../ADRs/Authentication.md)
-- [PersistentStorage](../../ADRs/PersistentStorage.md)
+- [Authn](./Key%20Capabilities/Core/Authentication.md)
+- [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 
 #### 1.2 Candidate registration
 ![CandidateRegistration](./assets/CandidateRegistration.png)
 
 #### Capability Links
-- [Authn](../../ADRs/Authentication.md)
-- [PersistentStorage](../../ADRs/PersistentStorage.md)
+- [Authn](./Key%20Capabilities/Core/Authentication.md)
+- [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 
 
 ### 2 Intake
@@ -44,9 +44,9 @@ The following are the most architecturally significant scenarios/flows, derived 
 ![NonprofitIntake2](./assets/Spotlight%20-%20Non-profit%20Intake%20-2.png)
 
 #### Capability Links
-- [SearchAndAssign](../../ADRs/SearchAndAssign.md)
-- [Notification](../../ADRs/Notification.md)
-- [Schedule](../../ADRs/Schedule.md)
+- [SearchAndAssign](./Key%20Capabilities/Core/SearchAndAssign.md)
+- [Notification](./Key%20Capabilities/Core/Notification.md)
+- [Schedule](./Key%20Capabilities/Core/Schedule.md)
 
 #### 2.2 Candidate intake
 
@@ -55,9 +55,9 @@ The following are the most architecturally significant scenarios/flows, derived 
 ![CandidateIntake2](./assets/Spotlight%20Candidate%20Intake%20-%202.png)
 
 #### Capability Links
-- [SearchAndAssign](../../ADRs/SearchAndAssign.md)
-- [Notification](../../ADRs/Notification.md)
-- [Schedule](../../ADRs/Schedule.md)
+- [SearchAndAssign](./Key%20Capabilities/Core/SearchAndAssign.md)
+- [Notification](./Key%20Capabilities/Core/Notification.md)
+- [Schedule](./Key%20Capabilities/Core/Schedule.md)
 
 
 ### 3 Analytics
@@ -65,28 +65,28 @@ The following are the most architecturally significant scenarios/flows, derived 
 ![SharedUseCase](./assets/Spotlight-Analytics.png)
 
 #### Capability Links
-- [PersistentStorage](../../ADRs/PersistentStorage.md)
+- [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 
 ### 4 Candidate Services
 
 ![CandidateServices](./assets/Spotlight-CandidateServices.png)
 
 #### Capability Links
-- [Analytics](../../ADRs/Analytics.md)
-- [Recommendation](../../ADRs/Recommendation.md)
-- [MediaStorage](../../ADRs/MultimediaStorage.md)
-- [Notification](../../ADRs/Notification.md)
+- [Analytics](./Key%20Capabilities/Core/Analytics.md)
+- [Recommendation](./Key%20Capabilities/Core/Recommendation.md)
+- [MediaStorage](./Key%20Capabilities/Core/MultimediaStorage.md)
+- [Notification](./Key%20Capabilities/Core/Notification.md)
 
 ### 5 Non-profit social networking aspect
 
 ![SocialUseCase](./assets/Spotlight-Social.png)
 
 #### Capability Links
-- [Analytics](../../ADRs/Analytics.md)
-- [PersistentStorage](../../ADRs/PersistentStorage.md)
-- [Forum](../../ADRs/Forum.md)
-- [Notification](../../ADRs/Notification.md)
-- [Authentication](../../ADRs/Authentication.md)
+- [Analytics](./Key%20Capabilities/Core/Analytics.md)
+- [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
+- [Forum](./Key%20Capabilities/Core/Forum.md)
+- [Notification](./Key%20Capabilities/Core/Notification.md)
+- [Authentication](./Key%20Capabilities/Core/Authentication.md)
 
 
 ### 5b Non-profit join programs
@@ -96,8 +96,8 @@ find and join "programs" that combines resources from multiple non-profits
 ![SharedUseCase](./assets/Spotlight-SharedServices.png)
 
 #### Capability Links
-- [PersistentStorage](../../ADRs/PersistentStorage.md)
-- [Notification](../../ADRs/Notification.md)
+- [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
+- [Notification](./Key%20Capabilities/Core/Notification.md)
 
 ### 6 training and career roadmap
 Platform Role based training is assigned to new Non-Profit
@@ -105,13 +105,13 @@ Platform Role based training is assigned to new Non-Profit
 ![PlatformTraining](./assets/Spotlight-NonProfitTraining.png)
 
 #### Capability Links
-- [MultimediaStorage](../../ADRs/MultimediaStorage.md)
-- [PersistentStorage](../../ADRs/PersistentStorage.md)
-- [Notification](../../ADRs/Notification.md)
+- [MultimediaStorage](./Key%20Capabilities/Core/MultimediaStorage.md)
+- [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
+- [Notification](./Key%20Capabilities/Core/Notification.md)
 
 Career mentor uploads new candidate career roadmap in platform	
 
 ![MentorPlanTraining](./assets/Spotlight-CareerMentorPlan.png)
 
 #### Capability Links
-- [PersistentStorage](../../ADRs/PersistentStorage.md)
+- [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
