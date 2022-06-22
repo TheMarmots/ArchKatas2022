@@ -23,3 +23,7 @@ The persistence capability is used for allowing other services to store persiste
 ## Architectural Characteristics
 * Eventual Consistency
 * High Availability
+
+## ADR
+- [DBCertain](../../ADRs/DBCertain.md)
+- [DBReadReplication](../../ADRs/DBReadReplication.md)
