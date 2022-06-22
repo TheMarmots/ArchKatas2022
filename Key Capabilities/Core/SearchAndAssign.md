@@ -24,3 +24,9 @@ The Assignment capability is reponsible for searching and assigning the register
 * Scalability
 * Performance
 * Search Accuracy
+
+
+## ADR
+- [SearchQuery](../../ADRs/SearchQuery.md)
+- [DBCertain](../../ADRs/DBCertain.md)
+- [AssignStrategy](../../ADRs/AssignStrategy.md)
