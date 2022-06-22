@@ -24,8 +24,16 @@ The following are the most architecturally significant scenarios/flows, derived 
 
 ![RegistrationUseCase](./assets/RegistrationUseCase.png)
 
+#### Capability Links
+- [Authn](../../ADRs/Authentication.md)
+- [PersistentStorage](../../ADRs/PersistentStorage.md)
+
 #### 1.2 Candidate registration
 ![CandidateRegistration](./assets/CandidateRegistration.png)
+
+#### Capability Links
+- [Authn](../../ADRs/Authentication.md)
+- [PersistentStorage](../../ADRs/PersistentStorage.md)
 
 
 ### 2 Intake
@@ -35,20 +43,39 @@ The following are the most architecturally significant scenarios/flows, derived 
 
 ![NonprofitIntake2](./assets/Spotlight%20-%20Non-profit%20Intake%20-2.png)
 
+#### Capability Links
+- [SearchAndAssign](../../ADRs/SearchAndAssign.md)
+- [Notification](../../ADRs/Notification.md)
+- [Schedule](../../ADRs/Schedule.md)
+
 #### 2.2 Candidate intake
 
 ![CandidateIntake1](./assets/Spotlight%20Candidate%20Intake%20-1.png)
 
 ![CandidateIntake2](./assets/Spotlight%20Candidate%20Intake%20-%202.png)
 
+#### Capability Links
+- [SearchAndAssign](../../ADRs/SearchAndAssign.md)
+- [Notification](../../ADRs/Notification.md)
+- [Schedule](../../ADRs/Schedule.md)
+
 
 ### 3 Analytics
 
 ![SharedUseCase](./assets/Spotlight-Analytics.png)
 
+#### Capability Links
+- [PersistentStorage](../../ADRs/PersistentStorage.md)
+
 ### 4 Candidate Services
 
 ![CandidateServices](./assets/Spotlight-CandidateServices.png)
+
+#### Capability Links
+- [Analytics](../../ADRs/Analytics.md)
+- [Recommendation](../../ADRs/Recommendation.md)
+- [MediaStorage](../../ADRs/MultimediaStorage.md)
+- [Notification](../../ADRs/Notification.md)
 
 ### 5 Non-profit social networking aspect
 
