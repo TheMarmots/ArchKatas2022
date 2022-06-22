@@ -26,3 +26,7 @@ Note that the Event Queue is a critical part of this app as it guarentees "event
 
 ## Architectural Characteristics
 * Eventual Delivery
+
+## ADR
+- [NotifyQueues](../../ADRs/NotifyQueues.md)
+- [NotifyUsePersistenceCap](../../ADRs/NotifyUsePersistenceCap.md)
