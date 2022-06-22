@@ -16,7 +16,9 @@ The forum capability provides a place for candidates to discuss, ask questions, 
 - Persistent Storage Capability
 - Notification Capability
 
-
 ## Architectural Characteristics
 - High Availability
 - Eventual Consistency for data storage
+
+## ADR
+- [ForumStorage](../../ADRs/ForumStorage.md)
