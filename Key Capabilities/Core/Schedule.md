@@ -19,3 +19,6 @@ This capability and functionality can be deferred. At the start the spotlight ap
 ## Architectural Characteristics
 * Scalability
 * Fault-tolerant  
+
+## ADR
+- [CollaborationPlatform](../../ADRs/CollaborationPlatform.md)
