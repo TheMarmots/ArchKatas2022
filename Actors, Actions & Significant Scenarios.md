@@ -81,17 +81,36 @@ The following are the most architecturally significant scenarios/flows, derived 
 
 ![SocialUseCase](./assets/Spotlight-Social.png)
 
+#### Capability Links
+- [Analytics](../../ADRs/Analytics.md)
+- [PersistentStorage](../../ADRs/PersistentStorage.md)
+- [Forum](../../ADRs/Forum.md)
+- [Notification](../../ADRs/Notification.md)
+
+
 ### 5b Non-profit join programs
 
 find and join "programs" that combines resources from multiple non-profits
 
 ![SharedUseCase](./assets/Spotlight-SharedServices.png)
 
+#### Capability Links
+- [PersistentStorage](../../ADRs/PersistentStorage.md)
+- [Notification](../../ADRs/Notification.md)
+
 ### 6 training and career roadmap
 Platform Role based training is assigned to new Non-Profit
 
 ![PlatformTraining](./assets/Spotlight-NonProfitTraining.png)
 
+#### Capability Links
+- [MultimediaStorage](../../ADRs/MultimediaStorage.md)
+- [PersistentStorage](../../ADRs/PersistentStorage.md)
+- [Notification](../../ADRs/Notification.md)
+
 Career mentor uploads new candidate career roadmap in platform	
 
 ![MentorPlanTraining](./assets/Spotlight-CareerMentorPlan.png)
+
+#### Capability Links
+- [PersistentStorage](../../ADRs/PersistentStorage.md)
