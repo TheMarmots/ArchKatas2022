@@ -6,7 +6,7 @@ APPROVED
 
 ## Context
 
-The assignment capability is primarily used in intake functionality. As it is required to automatically assign matching leaders and mentors, inline with the intake workflow, speed and accuracy are key. Additionally, the automatic matching requires some intelligence in the assignment service to choose the right match. 
+The Search and Assign capability is primarily used in intake functionality. As it is required to automatically assign matching leaders and mentors, inline with the intake workflow, speed and accuracy are key. Additionally, the automatic matching requires some intelligence in the assignment service to choose the right match. 
 
 ## Decision
 
