@@ -7,13 +7,7 @@ The Spotlight app project is being built with a goal to establish a sustainable 
 
 ## Members
 
-Josiah Bruner
-
-Kevin Basista
-
-Gagan Rajput
-
-Sneha Kokil
+Josiah Bruner, Kevin Basista, Gagan Rajput, Sneha Kokil
 
 ## Business Requirements
 
@@ -35,12 +29,22 @@ Sneha Kokil
 * Provide automated suggestions for non-profit offerings
 * Allow enhanced networking and group-sharing capabilities 
 * If applicable, allow adding samples of offerings in non-profit content
+
+## User-Facing Flows
+
+#### Actors, Actions and Significant Scenarios
+
+* [Actors, Actions, and Significant Scenerios](./Actors,%20Actions%20&%20Significant%20Scenarios.md) - Enumeration of important user stories. Technical "capabilities" are also indicated in this section.
+   
+#### Example Mockups
+
+* [Example Mockups](./ExampleMocks.md) - Some example mockups to help visualize the possible product.
    
 ## Our Strategy
 
-Most modern applications today are built with smaller, nimble components that allow them to achieve speed, scalability and security in their operations. Looking at the goal with which Spotlight App Project is being built, extensibility is also going to be one of the important characteristics. Our strategy in designing the initial architecture for Spotlight is to enable key features that drive the main purpose of the project, pay deliberate attention to the security aspects and choose the architectural elements, such that they can support the changing, long-term needs.
+Most modern applications today are built with smaller, nimble components that allow them to achieve speed, scalability and security in their operations. Looking at the goal with which Spotlight App Project is being built, extensibility is also going to be one of the important characteristics. Our strategy in designing the initial architecture for Spotlight is to enable key features that drive the main purpose of the project, pay deliberate attention to the security aspects and architectural elements, such that they can support changing, long-term needs.
 
-As this is the first time that our team participated in the Katas event, our work here is inspired by previous winners: TheJedis2020 (https://github.com/TheJedis2020) and The Archangels (https://tekiegirl.github.io/Archangels/).
+*Side Note: As this is the first time that our team participated in the Katas event, our work here is inspired by previous winners: TheJedis2020 (https://github.com/TheJedis2020) and The Archangels (https://tekiegirl.github.io/Archangels/).*
 
 ## Architecture Solution
 
@@ -48,11 +52,6 @@ As this is the first time that our team participated in the Katas event, our wor
 * [General Architecture](./GeneralArchitecture.md) - the general architectural idea.  
 
 ### Detailed Architecture
-
-#### Actors, Actions and Significant Scenarios
-
-* [Actors, Actions, and Significant Scenerios](./Actors,%20Actions%20&%20Significant%20Scenarios.md) - the general architectural idea.  
-
 
 #### Capabilities
 * [Analytics Capability](./Key%20Capabilities/Core/Analytics.md)
