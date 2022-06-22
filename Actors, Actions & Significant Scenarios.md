@@ -86,6 +86,7 @@ The following are the most architecturally significant scenarios/flows, derived 
 - [PersistentStorage](../../ADRs/PersistentStorage.md)
 - [Forum](../../ADRs/Forum.md)
 - [Notification](../../ADRs/Notification.md)
+- [Authentication](../../ADRs/Authentication.md)
 
 
 ### 5b Non-profit join programs
