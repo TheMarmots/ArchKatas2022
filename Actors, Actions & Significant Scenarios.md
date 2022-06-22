@@ -24,14 +24,14 @@ The following are the most architecturally significant scenarios/flows, derived 
 
 ![RegistrationUseCase](./assets/RegistrationUseCase.png)
 
-#### Capability Links
+#### Key Capability Links
 - [Authn](./Key%20Capabilities/Core/Authentication.md)
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 
 #### 1.2 Candidate registration
 ![CandidateRegistration](./assets/CandidateRegistration.png)
 
-#### Capability Links
+#### Key Capability Links
 - [Authn](./Key%20Capabilities/Core/Authentication.md)
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 
@@ -43,7 +43,7 @@ The following are the most architecturally significant scenarios/flows, derived 
 
 ![NonprofitIntake2](./assets/Spotlight%20-%20Non-profit%20Intake%20-2.png)
 
-#### Capability Links
+#### Key Capability Links
 - [SearchAndAssign](./Key%20Capabilities/Core/SearchAndAssign.md)
 - [Notification](./Key%20Capabilities/Core/Notification.md)
 - [Schedule](./Key%20Capabilities/Core/Schedule.md)
@@ -54,7 +54,7 @@ The following are the most architecturally significant scenarios/flows, derived 
 
 ![CandidateIntake2](./assets/Spotlight%20Candidate%20Intake%20-%202.png)
 
-#### Capability Links
+#### Key Capability Links
 - [SearchAndAssign](./Key%20Capabilities/Core/SearchAndAssign.md)
 - [Notification](./Key%20Capabilities/Core/Notification.md)
 - [Schedule](./Key%20Capabilities/Core/Schedule.md)
@@ -64,14 +64,14 @@ The following are the most architecturally significant scenarios/flows, derived 
 
 ![SharedUseCase](./assets/Spotlight-Analytics.png)
 
-#### Capability Links
+#### Key Capability Links
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 
 ### 4 Candidate Services
 
 ![CandidateServices](./assets/Spotlight-CandidateServices.png)
 
-#### Capability Links
+#### Key Capability Links
 - [Analytics](./Key%20Capabilities/Core/Analytics.md)
 - [Recommendation](./Key%20Capabilities/Core/Recommendation.md)
 - [MediaStorage](./Key%20Capabilities/Core/MultimediaStorage.md)
@@ -81,7 +81,7 @@ The following are the most architecturally significant scenarios/flows, derived 
 
 ![SocialUseCase](./assets/Spotlight-Social.png)
 
-#### Capability Links
+#### Key Capability Links
 - [Analytics](./Key%20Capabilities/Core/Analytics.md)
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 - [Forum](./Key%20Capabilities/Core/Forum.md)
@@ -95,7 +95,7 @@ find and join "programs" that combines resources from multiple non-profits
 
 ![SharedUseCase](./assets/Spotlight-SharedServices.png)
 
-#### Capability Links
+#### Key Capability Links
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 - [Notification](./Key%20Capabilities/Core/Notification.md)
 
@@ -104,7 +104,7 @@ Platform Role based training is assigned to new Non-Profit
 
 ![PlatformTraining](./assets/Spotlight-NonProfitTraining.png)
 
-#### Capability Links
+#### Key Capability Links
 - [MultimediaStorage](./Key%20Capabilities/Core/MultimediaStorage.md)
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 - [Notification](./Key%20Capabilities/Core/Notification.md)
@@ -113,5 +113,5 @@ Career mentor uploads new candidate career roadmap in platform
 
 ![MentorPlanTraining](./assets/Spotlight-CareerMentorPlan.png)
 
-#### Capability Links
+#### Key Capability Links
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
