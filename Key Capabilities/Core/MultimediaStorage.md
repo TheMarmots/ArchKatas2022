@@ -1,7 +1,7 @@
 # Multimedia Storage Capability
 
 ## Diagram
-![MultimediaStorageCapability](../../assets/MultimediaStorageCapability.png)
+![MultimediaStorageCapability](https://raw.githubusercontent.com/TheMarmots/ArchKatas2022/main/assets/MultimediaStorageCapability.svg)
 
 ## Description
 The multimedia storage capability is broadly responsible for handling downloadable readable content of an offering. This service also connects to the auth capability microservice to get role/user information to validate request to pdfs.

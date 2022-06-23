@@ -1,7 +1,7 @@
 # Forum Capability
 
 ## Diagram
-![ForumCapability](../../assets/ForumCapability.png)
+![ForumCapability](https://raw.githubusercontent.com/TheMarmots/ArchKatas2022/main/assets/ForumCapability.svg)
 
 ## Description
 The forum capability provides a place for candidates to discuss, ask questions, and collaborate with other candidates. It also provides an opportunity for non-profits to interact with their students asynchronously about offerings and any feedback they might have.

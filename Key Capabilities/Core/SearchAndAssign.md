@@ -1,7 +1,7 @@
 # Search and Assign Capability
 
 ## Diagram
-![AssignmentCapability](../../assets/Assignment%20Capability.png)
+![AssignmentCapability](https://raw.githubusercontent.com/TheMarmots/ArchKatas2022/main/assets/SearchAssignCapability.svg)
 
 ## Description
 The Search and Assign capability is reponsible for searching and assigning the registered community leaders and career mentors to non-profits and candidates, respectively. The data on community leaders and career mentors as well as primary candidate and non-profit information required to match are stored in a persistent storage, shared between the two services. The shared data store helpes in optimizing the database queries, thereby optimizing the searches.

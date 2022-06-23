@@ -2,7 +2,7 @@
 
 ## Diagram
 
-![AuthCapability](../../assets/Auth-Capability.png)
+![AuthCapability](https://raw.githubusercontent.com/TheMarmots/ArchKatas2022/main/assets/AuthCapability.svg)
 
 ## Description
 

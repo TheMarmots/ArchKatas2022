@@ -2,7 +2,7 @@
 
 ## Diagram
 
-![NotificationCapability](../../assets/Notification-Capability.png)
+![NotificationCapability](https://raw.githubusercontent.com/TheMarmots/ArchKatas2022/main/assets/NotificationCapability.svg)
 
 
 ## Description

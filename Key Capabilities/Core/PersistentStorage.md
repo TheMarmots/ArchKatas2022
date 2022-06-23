@@ -2,7 +2,7 @@
 
 ## Diagram
 
-![PersistenceCapability](../../assets/Persistence-Capability.png)
+![PersistenceCapability](https://raw.githubusercontent.com/TheMarmots/ArchKatas2022/main/assets/PersistentStorageCapability.svg)
 
 
 ## Description
