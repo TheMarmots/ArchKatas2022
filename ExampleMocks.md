@@ -8,4 +8,4 @@ MockFlow link: https://wireframepro.mockflow.com/view/MAlZZbeiQnb
 
 ![RegistrationMockup](https://user-images.githubusercontent.com/2743835/175066952-7a5e93ec-1147-4f82-a794-637d52d1404b.png)
 
-[Previous Page](./Solution/DetailedArch.md) | [Next Page](../ADRs)
+[Previous Page](./Solution/DetailedArch.md) | [Next Page](https://github.com/TheMarmots/ArchKatas2022/tree/main/ADRs)
