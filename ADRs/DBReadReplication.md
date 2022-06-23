@@ -1,4 +1,4 @@
-# DBCERTAIN: Spotlight will make use of DB Read Replication
+# DBREADREPLICATION: Spotlight will make use of DB Read Replication
 
 ## Status
 
