@@ -1,6 +1,7 @@
 # Actors, Actions & Significant Scenarios
 
-The following identifies the significant actors, actions and key scenarios that will inform the architecture of the Spotlight project. This is useful to gain a overall sense for what needs to be provided by the service.
+The following identifies the significant actors, actions and key scenarios that will inform the architecture of the Spotlight project. The enumeration of important user stories is useful to gain a overall sense for what needs to be provided by the service. Each significant scenario also point to the related technical capabilities in the proposed architecture.
+   
 ## Actors & Actions
 
 The identified actors their actions are as follows:

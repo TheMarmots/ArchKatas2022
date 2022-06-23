@@ -1,32 +1,16 @@
 # General Architecture
 
-<Insert diagram>
-
-# Overview
-
 ![GeneralArchitecture](assets/generalarchitecture.png)
+The general architecture brings together the [Architecture Analysis](./Solution/ArchAnalysis.md), incorporating the key characteristics of the application architecture. As depicted in the diagram, the application is divided into 4 major components that are loosely coupled.
 
-# Architectural Characteristics
+#### Client-side Frontend
+This is the GUI layer that gets deployed separately and depends upon API request/responses from backend services to support CRUD activities performed from the GUI
 
-#### Key Non-Functional Properties
-In this section we describe the key non-functional properties of the architecture.
+#### Infrastructure-based abstraction layer
+This layer acts as a separation between APIs and their implementation by configuring DNS entries and managing load-balancers to provide secure network connections
 
-##### Scalability
-We did a bit of research to ballpark our possible market in the future.
+#### Route Handlers
+This layers is comprised of a set of services to implement the business use cases and configure routes accordingly. This decouples the routing logic further from the actual backend APIs, allowing easier extensibility
 
-
-~1.54 million nonprofits registered with IRS in 2016: https://nccs.urban.org/project/nonprofit-sector-brief
-
-
-Very hard to find data on how many people take advantage of non-profits. As a high bound, let's say 25% of the US takes advantage per year: ~82.375 million
-
-Comparsison: LinkedIn has ~830 million users across 200 countries: https://about.linkedin.com/
-
-So our scale is roughly one order of magnitude smaller than LinkedIn. This is still *very large* and the architecture proposed needs to be able to scale to this size.
-##### Extensibility
-
-Non-profits operate in a huge number of different causes and may collaborate in a near infinite number of ways. Although our initial design will support only a subset of these possibilities, it's clear that the platform needs to be extensible enough to support the growing number of non-profits and their needs.
-
-##### Usability
-
-We must be cognizant that both non-profits and candidate users may have very limited experience in technology. As such, our architecture focuses significantlly on ease-of-use and the ability for quick iteration and rapid prototyping. This will help UX and engineering teams to spend more time understanding user needs.
+#### Backend microservices
+These are divided into core capabilities, which will provide services for the business use cases defined in route handlers
