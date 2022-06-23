@@ -1,7 +1,7 @@
 # Analytics Capability
 
 ## Diagram
-![AnalyticsCapability](../../assets/Analytics%20Capability.svg)
+![AnalyticsCapability](https://raw.githubusercontent.com/TheMarmots/ArchKatas2022/main/assets/AnalyticsCapability.svg)
 
 ## Description
 The analytics capability allows the Spotlight service to aggregate data about how candidates use the service and where they are most engaged, see matches and signups for offerings, and help administrators understand where there might be gaps for in-demand offerings.
