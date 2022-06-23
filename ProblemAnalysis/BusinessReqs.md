@@ -22,4 +22,4 @@ In order for the Spotlight program to address immediate business drivers, it is 
 * Allow enhanced networking and group-sharing capabilities 
 * If applicable, allow adding samples of offerings in non-profit content
 
-[Previous Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/ProblemAnalysis/DriversGoals.md) | [Next Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/README.md#solution)
+[Previous Page](./DriversGoals.md) | [Next Page](../README.md#solution)

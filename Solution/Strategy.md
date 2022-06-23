@@ -5,4 +5,4 @@ Most modern applications today are built with smaller, nimble components that al
 
 *Side Note: As this is the first time that our team participated in the Katas event, our work here is inspired by previous winners: TheJedis2020 (https://github.com/TheJedis2020) and The Archangels (https://tekiegirl.github.io/Archangels/).*
 
-[Previous Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/README.md) | [Next Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/Actors,%20Actions%20&%20Significant%20Scenarios.md)
+[Previous Page](../README.md) | [Next Page](../Actors,%20Actions%20&%20Significant%20Scenarios.md)

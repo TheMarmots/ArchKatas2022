@@ -27,3 +27,5 @@ The Spotlight App requires storage of authentication credentials which are email
 #### Risks
 * If the databases go down then users will not be able to login or register.
 * Data consistency: we have to be careful about authentication data being consistent and read/write times.
+
+[Back to ADR List](../ADRs/)

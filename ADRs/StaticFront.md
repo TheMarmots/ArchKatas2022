@@ -25,3 +25,5 @@ The Spotlight App uses will have a considerable amount of user-facing web UI alo
 
 #### Risks
 * While we don't anticipate the frontend needing to display a huge amount of data, there is some risk a use-case will come up that requires it. This could cause significant UI performance issues.
+
+[Back to ADR List](../ADRs/)

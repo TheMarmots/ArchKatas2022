@@ -18,3 +18,5 @@ The Spotlight app will use a separate database from the persistent storage capab
 - Additional maintenance overhead and infrastructure costs
 #### Risks
 - If the analytics database goes down or is corrupted, reports won't be able to be generated and historical usage data would be lost
+
+[Back to ADR List](../ADRs/)

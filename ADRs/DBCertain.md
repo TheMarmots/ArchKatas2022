@@ -30,3 +30,5 @@ Some of these requests *must complete* (like storing a "seen" notifications) whi
 
 #### Risks
 * Event queues must be up at all times. Lost messages break the guarentee this service tries to provide.
+
+[Back to ADR List](../ADRs/)

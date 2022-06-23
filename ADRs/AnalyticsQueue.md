@@ -20,3 +20,5 @@ The analytics capability will use a queue to store analytics data and events.
 
 #### Risks
 - If the queue does down or becomes unavailable, analytics data that has not yet been retrieved could become permanantly lost
+
+[Back to ADR List](../ADRs/)

@@ -25,3 +25,5 @@ To support notification scheduling and delivery, Spotlight needs some way to sch
 
 #### Risks
 * High queue backlogs may cause performance issues or unexpected UX. May need to consider when to "abort" events.
+
+[Back to ADR List](../ADRs/)

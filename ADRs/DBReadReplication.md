@@ -25,3 +25,5 @@ One of the most common actions in the system will be reading previously stored p
 
 #### Risks
 * Slightly outdated data could be returned at any time and clients and use-cases must recognize this.
+
+[Back to ADR List](../ADRs/)

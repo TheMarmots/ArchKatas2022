@@ -26,3 +26,4 @@ The search capability is primarily used in intake functionality. As it is requir
 #### Risks
 * Cache refresh can hinder accuracy, can return stale results
   
+[Back to ADR List](../ADRs/)

@@ -20,3 +20,5 @@ The analytics capability will use a separate microservice to process incoming an
 
 #### Risks
 - If the analytics API goes down, we will miss data and events which could impact the accuracy of reporting
+
+[Back to ADR List](../ADRs/)

@@ -27,3 +27,5 @@ The persistence capability is used for allowing other services to store persiste
 ## ADR
 - [DBCertain](../../ADRs/DBCertain.md)
 - [DBReadReplication](../../ADRs/DBReadReplication.md)
+
+[Back to Capabilities List](../../Solution/DetailedArch.md)

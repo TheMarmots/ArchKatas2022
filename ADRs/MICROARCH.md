@@ -29,3 +29,5 @@ The Spotlight App requires several different components including frontend, serv
 #### Risks
 * Data consistency: Without additional considerations we have very few guarentees that data will be consistent across services. This likely isn't a huge concern given the use-cases we must support, but should be recognized.
 * Regressions: Without more complex end-to-end test frameworks it is much harder to verify that changes in one service don't break others.
+
+[Back to ADR List](../ADRs/)

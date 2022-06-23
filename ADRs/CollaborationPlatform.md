@@ -26,3 +26,5 @@ Spotlight needs capabilities to schedule meetings between users.
 
 #### Risks
 * If the third-party service goes down then meeting invites/scheduling would be affected.
+
+[Back to ADR List](../ADRs/)

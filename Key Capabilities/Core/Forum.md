@@ -22,3 +22,5 @@ The forum capability provides a place for candidates to discuss, ask questions, 
 
 ## ADR
 - [ForumStorage](../../ADRs/ForumStorage.md)
+
+[Back to Capabilities List](../../Solution/DetailedArch.md)

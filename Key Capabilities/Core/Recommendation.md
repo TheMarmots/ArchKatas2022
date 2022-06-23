@@ -17,3 +17,5 @@ The recommendation capability is responsible for handling service recommendation
 ## Architectural Characteristics
 * Interoperability
 * Extensibility 
+
+[Back to Capabilities List](../../Solution/DetailedArch.md)

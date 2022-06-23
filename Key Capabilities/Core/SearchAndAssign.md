@@ -30,3 +30,5 @@ The Search and Assign capability is reponsible for searching and assigning the r
 - [SearchQuery](../../ADRs/SearchQuery.md)
 - [DBCertain](../../ADRs/DBCertain.md)
 - [AssignStrategy](../../ADRs/AssignStrategy.md)
+
+[Back to Capabilities List](../../Solution/DetailedArch.md)

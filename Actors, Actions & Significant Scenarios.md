@@ -45,9 +45,7 @@ This legend defines all the symbols that are used throughout our diagrams. Each 
 ### 2 Intake
 
 #### 2.1 Non profit intake
-![NonprofitIntake1](./assets/Spotlight%20-%20Non-profit%20Intake%20-%201.png)
-
-![NonprofitIntake2](./assets/Spotlight%20-%20Non-profit%20Intake%20-2.png)
+![NonprofitIntake1](./assets/NonProfitIntake.png)
 
 #### Key Capability Links
 - [SearchAndAssign](./Key%20Capabilities/Core/SearchAndAssign.md)
@@ -81,7 +79,8 @@ This legend defines all the symbols that are used throughout our diagrams. Each 
 - [MediaStorage](./Key%20Capabilities/Core/MultimediaStorage.md)
 - [Notification](./Key%20Capabilities/Core/Notification.md)
 
-### 5 Non-profit social networking aspect
+### 5 Social Networking
+#### 5.1 Non-profit social networking aspect
 
 ![SocialUseCase](./assets/SocialCommunicationUseCase.png)
 
@@ -93,7 +92,7 @@ This legend defines all the symbols that are used throughout our diagrams. Each 
 - [Authentication](./Key%20Capabilities/Core/Authentication.md)
 
 
-### 5b Non-profit join programs
+#### 5.2 Non-profit join programs
 
 find and join "programs" that combines resources from multiple non-profits
 
@@ -120,4 +119,4 @@ find and join "programs" that combines resources from multiple non-profits
 #### Key Capability Links
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 
-[Previous Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/Solution/Strategy.md) | [Next Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/Solution/ArchAnalysis.md)
+[Previous Page](./Solution/Strategy.md) | [Next Page](./Solution/ArchAnalysis.md)
