@@ -17,4 +17,4 @@ The Spotlight program has the following set of key goals, aimed at improving the
 3. Provide features that are easy of use and quick to onboard onto.
 4. Provide features to use the application as candidate case management platform to personalize career plan and track progress.
 
-[Previous Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/ProblemAnalysis/Background.md) | [Next Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/ProblemAnalysis/BusinessReqs.md)
+[Previous Page](./Background.md) | [Next Page](./BusinessReqs.md)

@@ -120,4 +120,4 @@ find and join "programs" that combines resources from multiple non-profits
 #### Key Capability Links
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 
-[Previous Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/Solution/Strategy.md) | [Next Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/Solution/ArchAnalysis.md)
+[Previous Page](./Solution/Strategy.md) | [Next Page](./Solution/ArchAnalysis.md)

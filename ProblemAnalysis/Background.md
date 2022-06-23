@@ -4,4 +4,4 @@ Everyone deserves a chance to be in a career they aspire and can grow in. In the
 
 The Spotlight app project is being built with a goal to establish a sustainable and diverse talent pipeline that extends career equity to underrepresented demographics by providing access to competent training programs that lead to direct employment opportunities. The sustained effort to amass a coalition of nonprofits in order to address specific needs within the communities involves developing a centralized platform as the base of operations to collaborate, network and make a collective impact, thereby, illuminating possibilities.
 
-[Previous Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/README.md) | [Next Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/ProblemAnalysis/DriversGoals.md)
+[Previous Page](../README.md) | [Next Page](./DriversGoals.md)

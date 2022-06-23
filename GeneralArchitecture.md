@@ -15,4 +15,4 @@ This layers is comprised of a set of services to implement the business use case
 #### Backend microservices
 These are divided into core capabilities, which will provide services for the business use cases defined in route handlers
 
-[Previous Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/Solution/ArchAnalysis.md) | [Next Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/Solution/DetailedArch.md)
+[Previous Page](./Solution/ArchAnalysis.md) | [Next Page](./Solution/DetailedArch.md)
