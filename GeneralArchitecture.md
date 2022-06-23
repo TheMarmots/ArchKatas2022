@@ -1,6 +1,7 @@
 # General Architecture
 
-![GeneralArchitecture](assets/generalarchitecture.png)
+![GeneralArchitecture](https://raw.githubusercontent.com/TheMarmots/ArchKatas2022/main/assets/generalarchitecture.svg)
+
 The general architecture brings together the [Architecture Analysis](./Solution/ArchAnalysis.md), incorporating the key characteristics of the application architecture. As depicted in the diagram, the application is divided into 4 major components that are loosely coupled.
 
 #### Client-side Frontend
