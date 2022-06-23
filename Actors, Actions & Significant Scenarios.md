@@ -79,7 +79,8 @@ This legend defines all the symbols that are used throughout our diagrams. Each 
 - [MediaStorage](./Key%20Capabilities/Core/MultimediaStorage.md)
 - [Notification](./Key%20Capabilities/Core/Notification.md)
 
-### 5 Non-profit social networking aspect
+### 5 Social Networking
+#### 5.1 Non-profit social networking aspect
 
 ![SocialUseCase](./assets/SocialCommunicationUseCase.png)
 
@@ -91,7 +92,7 @@ This legend defines all the symbols that are used throughout our diagrams. Each 
 - [Authentication](./Key%20Capabilities/Core/Authentication.md)
 
 
-### 5b Non-profit join programs
+#### 5.2 Non-profit join programs
 
 find and join "programs" that combines resources from multiple non-profits
 
