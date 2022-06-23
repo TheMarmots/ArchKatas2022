@@ -44,3 +44,5 @@ As shown in the table, Microservices, Service-based and event-based architecture
 3. Event-driven style was not entirely applicable for Spotlight's use cases.
 
 The detailed choice of Microservices architecture is documented in [ADR: MICROARCH](./../ADRs/MICROARCH.md).
+
+[Previous Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/Actors,%20Actions%20&%20Significant%20Scenarios.md) | [Next Page](https://github.com/TheMarmots/ArchKatas2022/blob/main/GeneralArchitecture.md)
