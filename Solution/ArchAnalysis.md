@@ -22,6 +22,7 @@ Non-profits operate in a huge number of different causes and may collaborate in 
 
 We must be cognizant that both non-profits and candidate users may have very limited experience in technology. As such, our architecture focuses significantlly on ease-of-use and the ability for quick iteration and rapid prototyping. This will help UX and engineering teams to spend more time understanding user needs.
 
+## Additional Considerations
 #### Elasticity
 Given the increasing amount of data and records that the applcation would have to maintain, we needed the application resources to be expandable to meet the changing needs, without affecting operations.
 

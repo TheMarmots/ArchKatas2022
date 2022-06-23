@@ -11,10 +11,10 @@ Josiah Bruner, Kevin Basista, Gagan Rajput, Sneha Kokil
 * [Problem Background](./ProblemAnalysis/Background.md)
 * [Business Drivers and Goals](./ProblemAnalysis/DriversGoals.md)
 * [Business Requirements](./ProblemAnalysis/BusinessReqs.md)
-* [Actors, Actions, and Significant Scenarios](./Actors,%20Actions%20&%20Significant%20Scenarios.md)
 
 ## Solution
 * [Our Strategy](./Solution/Strategy.md)
+* [Actors, Actions, and Significant Scenarios](./Actors,%20Actions%20&%20Significant%20Scenarios.md)
 * [Architecture Analysis](./Solution/ArchAnalysis.md)
 * [High-level Architecture](./GeneralArchitecture.md)
 * [Detailed Architecture](./Solution/DetailedArch.md)
