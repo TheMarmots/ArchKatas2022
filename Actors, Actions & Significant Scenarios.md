@@ -45,9 +45,7 @@ This legend defines all the symbols that are used throughout our diagrams. Each 
 ### 2 Intake
 
 #### 2.1 Non profit intake
-![NonprofitIntake1](./assets/Spotlight%20-%20Non-profit%20Intake%20-%201.png)
-
-![NonprofitIntake2](./assets/Spotlight%20-%20Non-profit%20Intake%20-2.png)
+![NonprofitIntake1](./assets/NonProfitIntake.png)
 
 #### Key Capability Links
 - [SearchAndAssign](./Key%20Capabilities/Core/SearchAndAssign.md)
