@@ -21,3 +21,5 @@ The multimedia storage capability is broadly responsible for handling downloadab
 
 ## ADR
 - [ObjectStorage](../../ADRs/ObjectStorage.md)
+
+[Back to Capabilities List](../../Solution/DetailedArch.md)

@@ -25,3 +25,4 @@ The Search and Assign capability is primarily used in intake functionality. As i
 #### Risks
 * If the assignment of a match is a miss, candidate or non-profit may lose interest due to lack of right support
   
+[Back to ADR List](../ADRs/)

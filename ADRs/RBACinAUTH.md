@@ -28,3 +28,5 @@ There are several differect actors/users for the spotlight application (like non
 
 #### Risks
 * If not implemented properly then users could face issues accessing their desired resources and could loose interest.
+
+[Back to ADR List](../ADRs/)

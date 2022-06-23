@@ -12,3 +12,5 @@ The detailed architecture is divided into core capabilities that support each of
 * [Recommendation Capability](../Key%20Capabilities/Core/Recommendation.md)
 * [Scheduling Capability](../Key%20Capabilities/Core/Schedule.md)
 * [Assignment Capability](../Key%20Capabilities/Core/SearchAndAssign.md)
+
+[Previous Page](../GeneralArchitecture.md) | [Next Page](../ExampleMocks.md)

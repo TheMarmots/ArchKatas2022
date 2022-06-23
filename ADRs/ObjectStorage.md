@@ -27,3 +27,5 @@ The Spotlight App requires handling readable content such as PDFs. This content 
 
 #### Risks
 * Data consistency: Files could become corrupt based on the underlying storage technique/hardware.
+
+[Back to ADR List](../ADRs/)

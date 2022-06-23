@@ -22,3 +22,5 @@ This capability and functionality can be deferred. At the start the spotlight ap
 
 ## ADR
 - [CollaborationPlatform](../../ADRs/CollaborationPlatform.md)
+
+[Back to Capabilities List](../../Solution/DetailedArch.md)

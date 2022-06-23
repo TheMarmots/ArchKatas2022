@@ -27,3 +27,5 @@ The Spotlight App uses a static client <--> Restful HTTP-based API driven archit
 
 #### Risks
 * None anticipated
+
+[Back to ADR List](../ADRs/)

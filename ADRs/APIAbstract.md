@@ -26,3 +26,5 @@ The Spotlight App uses a static client <--> Restful HTTP-based API driven archit
 
 #### Risks
 * Increased reliance on the load balancer and proper DNS configuration for availability.
+
+[Back to ADR List](../ADRs/)

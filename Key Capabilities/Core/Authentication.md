@@ -29,3 +29,5 @@ The Auth capability is broadly responsible for handling user auth (handling logi
 - [RBACinAUTH](../../ADRs/RBACinAUTH.md)
 - [LoginTypes](../../ADRs/LoginTypes.md)
 - [AuthDB](../../ADRs/AuthDB.md)
+
+[Back to Capabilities List](../../Solution/DetailedArch.md)

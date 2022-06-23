@@ -30,3 +30,5 @@ Note that the Event Queue is a critical part of this app as it guarentees "event
 ## ADR
 - [NotifyQueues](../../ADRs/NotifyQueues.md)
 - [NotifyUsePersistenceCap](../../ADRs/NotifyUsePersistenceCap.md)
+
+[Back to Capabilities List](../../Solution/DetailedArch.md)

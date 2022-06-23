@@ -27,3 +27,5 @@ In addition to notification scheduling and delivery, Spotlight needs some way to
 
 #### Risks
 * Unavailability of the persistence capability will cause strange behavior (missing notification history and state).
+
+[Back to ADR List](../ADRs/)

@@ -26,3 +26,5 @@ The actors for Spotlight App are primarily non-profits and candidates interested
 
 #### Risks
 * Security: We will have to securely store credentials in a database and if leaked they could pose information exposure risk.
+
+[Back to ADR List](../ADRs/)
