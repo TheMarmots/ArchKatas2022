@@ -29,6 +29,9 @@ The future enhancements in Spotlight's architecture are based upon the long-term
 * Enhance intelligence and accuracy of search/match functionality using AI models
 * Allow non-profits to add samples/trials of their services
 
+## Finals Video Presentation
+[![Watch the video](./assets/video.png)](https://prezi.com/v/view/46CRofVZNbjI2EI6DQcA/)
+
 
 
 
