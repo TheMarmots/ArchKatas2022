@@ -28,7 +28,7 @@ This legend defines all the symbols that are used throughout our diagrams. Each 
 ### 1 Registration 
 #### 1.1 Non profit registration
 
-![RegistrationUseCase](./assets/RegistrationUseCase.png)
+![RegistrationUseCase](./assets/NonProfitRegistration.png)
 
 #### Key Capability Links
 - [Authn](./Key%20Capabilities/Core/Authentication.md)
@@ -56,9 +56,7 @@ This legend defines all the symbols that are used throughout our diagrams. Each 
 
 #### 2.2 Candidate intake
 
-![CandidateIntake1](./assets/Spotlight%20Candidate%20Intake%20-1.png)
-
-![CandidateIntake2](./assets/Spotlight%20Candidate%20Intake%20-%202.png)
+![CandidateIntake](./assets/CandidateIntake.png)
 
 #### Key Capability Links
 - [SearchAndAssign](./Key%20Capabilities/Core/SearchAndAssign.md)
@@ -68,14 +66,14 @@ This legend defines all the symbols that are used throughout our diagrams. Each 
 
 ### 3 Analytics
 
-![SharedUseCase](./assets/Spotlight-Analytics.png)
+![SharedUseCase](./assets/AnalyticsUseCase.png)
 
 #### Key Capability Links
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
 
 ### 4 Candidate Services
 
-![CandidateServices](./assets/Spotlight-CandidateServices.png)
+![CandidateServices](./assets/CandidateServices.png)
 
 #### Key Capability Links
 - [Analytics](./Key%20Capabilities/Core/Analytics.md)
@@ -85,7 +83,7 @@ This legend defines all the symbols that are used throughout our diagrams. Each 
 
 ### 5 Non-profit social networking aspect
 
-![SocialUseCase](./assets/Spotlight-Social.png)
+![SocialUseCase](./assets/SocialCommunicationUseCase.png)
 
 #### Key Capability Links
 - [Analytics](./Key%20Capabilities/Core/Analytics.md)
@@ -99,7 +97,7 @@ This legend defines all the symbols that are used throughout our diagrams. Each 
 
 find and join "programs" that combines resources from multiple non-profits
 
-![SharedUseCase](./assets/Spotlight-SharedServices.png)
+![SharedUseCase](./assets/SharedServices.png)
 
 #### Key Capability Links
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
@@ -108,7 +106,7 @@ find and join "programs" that combines resources from multiple non-profits
 ### 6 training and career roadmap
 #### 6.1 Platform Role based training is assigned to new Non-Profit
 
-![PlatformTraining](./assets/Spotlight-NonProfitTraining.png)
+![PlatformTraining](./assets/NonProfitTrainingUseCase.png)
 
 #### Key Capability Links
 - [MultimediaStorage](./Key%20Capabilities/Core/MultimediaStorage.md)
@@ -117,7 +115,7 @@ find and join "programs" that combines resources from multiple non-profits
 
 #### 6.2 Career mentor uploads new candidate career roadmap in platform	
 
-![MentorPlanTraining](./assets/Spotlight-CareerMentorPlan.png)
+![MentorPlanTraining](./assets/CandidateCareerMentorPlan.png)
 
 #### Key Capability Links
 - [PersistentStorage](./Key%20Capabilities/Core/PersistentStorage.md)
