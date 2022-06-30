@@ -1,4 +1,4 @@
-# Architectural Kata: Summer 2022: Spotlight App
+# Architectural Kata: Spring 2022: Spotlight App
 ![WinBadge](./assets/B2930DD0-1AEF-4CFF-B308-C80B2B8E1C9F.jpeg)
 ## Introduction
 Welcome to our solution repository for the O'Reilly Summer 2022 Architectural Kata. The repository holds our thought process behind the solution for the Kata - Spotlight App - and propose an architecture satisfying Spotlight's goals.									
